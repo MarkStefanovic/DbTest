@@ -1,0 +1,3 @@
+enum class DataType {
+    DATE, DATETIME, DECIMAL, FLOAT, INTEGER, TEXT
+}
